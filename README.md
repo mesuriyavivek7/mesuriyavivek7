@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mesuriyavivek7" alt="mesuriyavivek7" /></a> </p>
 
-- 🔭 I’m currently working on [Vendor Management System](https://github.com/mesuriyavivek7/Recruiting-Management)
+- 🔭 I’m currently working on [Drive Automation Saas](https://github.com/mesuriyavivek7/driveautomation)
 
 - 🌱 I’m currently learning **Next Js and Ai/Ml**
 
